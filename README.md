@@ -31,5 +31,5 @@ I have hosted the App on <b>Firestore</b>
 
 ## CRUD app link
 [CLICK ME](https://firecrud-486cd.web.app/)
-## you create -> read -> update -> delete.
+## you can create -> read -> update -> delete.
 Let me know if you have check or not by putting your info.Thank you.☺
